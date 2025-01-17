@@ -4,5 +4,5 @@
 (Тестирование SOAP-сервиса)
 [https://www.postman.com/natigs/workspace/my-workspace/collection/40837345-ed48cbdd-e3ea-4f9f-bf45-3a0c219decf5?action=share&creator=40837345&active-environment=40837345-c0028eae-6344-4158-af28-87be431e210c]
 (Автотесты)
-[https://github.com/ngavrilenko/api/commit/7e4f10ce1f28e3e54a9ec652a025810ee82cf29e]
-[https://github.com/ngavrilenko/api/commit/ec97d2b0a04bea7b0f8fd19649bfe8fb2a04486a]
+[https://github.com/ngavrilenko/api/commit/752b8fd5e10ba7ab6bc021dc2d5c62d50c618989]
+
